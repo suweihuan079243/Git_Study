@@ -1,0 +1,9 @@
+
+O
+java:S4925$"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8‹©Ì‹´.
+Q
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8¥µäŠ´.
+L
+java:S1068"*Remove this unused "driver" private field.(¡ Ä›øÿÿÿÿ8‹©Ì‹´.
+M
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º8¥µäŠ´.

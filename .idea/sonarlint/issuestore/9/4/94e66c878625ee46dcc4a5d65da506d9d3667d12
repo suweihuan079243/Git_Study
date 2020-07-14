@@ -1,0 +1,10 @@
+
+ajavascript:S905:"FExpected an assignment or function call and instead saw an expression.(ปนโล
+<javascript:S878:"!Unexpected use of comma operator.(ปนโล
+3javascript:S2814:"'w' is already defined.(ปนโล
+Gjavascript:S1117:"+'d' is already declared in the upper scope.(ปนโล
+Njavascript:S1481:"2Remove the declaration of the unused 'G' variable.(ปนโล
+3javascript:S2814:"'L' is already defined.(ปนโล
+Njavascript:S1481:"2Remove the declaration of the unused 'L' variable.(ปนโล
+Kjavascript:S1854:"/Remove this useless assignment to variable "L".(ปนโล
+vjavascript:S2703:"ZAdd the "let", "const" or "var" keyword to this declaration of "func" to make it explicit.(ปนโล

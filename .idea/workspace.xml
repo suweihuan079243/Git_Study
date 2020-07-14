@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="demo-java-2:Web exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="247a7df1-a873-4380-9f4e-4b4a912101b5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\local_repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1eZNO78ZwczyHkWLzqjhY1nypuZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bosssoft.hr.train.annotation" />
+      <recent name="service" />
+      <recent name="com.bosssoft.hr.train.web.util" />
+      <recent name="com.bosssoft.hr.train.collectionframwork" />
+      <recent name="com.bosssoft.hr.train.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\boss_train_work\demo-java-3\src\main\java\com\bosssoft\hr\train" />
+      <recent name="E:\boss_train_work\demo-java-3\src\main\java\com\bosssoft\hr\train\annotation" />
+      <recent name="E:\boss_train_work\java-demo-3\web" />
+      <recent name="E:\boss_train_work\demo-java-2\src\main" />
+      <recent name="E:\boss_train_work\demo-java-2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.31">
+    <configuration name="SocketServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bosssoft.hr.train.socket.SocketServer" />
+      <module name="demo-java-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-java-1" />
+      <option name="PACKAGE_NAME" value="com.bosssoft.hr.train.socket" />
+      <option name="MAIN_CLASS_NAME" value="com.bosssoft.hr.train.socket.SocketTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-java-1" />
+      <option name="PACKAGE_NAME" value="com.bosssoft.hr.train.socket" />
+      <option name="MAIN_CLASS_NAME" value="com.bosssoft.hr.train.socket.SocketTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketTest.testSocketClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-java-1" />
+      <option name="PACKAGE_NAME" value="com.bosssoft.hr.train.socket" />
+      <option name="MAIN_CLASS_NAME" value="com.bosssoft.hr.train.socket.SocketTest" />
+      <option name="METHOD_NAME" value="testSocketClient" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketTest.testSocketServer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-java-1" />
+      <option name="PACKAGE_NAME" value="com.bosssoft.hr.train.socket" />
+      <option name="MAIN_CLASS_NAME" value="com.bosssoft.hr.train.socket.SocketTest" />
+      <option name="METHOD_NAME" value="testSocketServer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="demo-java-2:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_boss_train_work" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55072" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="55073" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="demo-java-2:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_boss_train_work" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55072" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="55073" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SocketServer" />
+      <item itemvalue="JUnit.SocketTest" />
+      <item itemvalue="JUnit.SocketTest.test" />
+      <item itemvalue="JUnit.SocketTest.testSocketClient" />
+      <item itemvalue="JUnit.SocketTest.testSocketServer" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.31" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SocketTest.testSocketClient" />
+        <item itemvalue="JUnit.SocketTest.testSocketServer" />
+        <item itemvalue="JUnit.SocketTest" />
+        <item itemvalue="JUnit.SocketTest.test" />
+        <item itemvalue="Application.SocketServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="247a7df1-a873-4380-9f4e-4b4a912101b5" name="Default Changelist" comment="" />
+      <created>1594525119371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594525119371</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1594724688985</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594724688985</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" width="814" height="724" key="#Intentions" timestamp="1594537767240">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" width="814" height="724" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1594537767240" />
+    <state x="352" y="81" key="#Project_Structure" timestamp="1594714429412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="352" y="81" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1594714429412" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594716286059">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1594716286059" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1594547689706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594547689706" />
+    <state x="557" y="328" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1594714787857">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="557" y="328" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.824@0.0.1536.824" timestamp="1594714787857" />
+    <state x="553" y="279" width="429" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594611791033">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="279" width="429" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1594611791033" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594540822220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594540822220" />
+    <state x="421" y="8" key="CommitChangelistDialog2" timestamp="1594724678134">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="421" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594724678134" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1594724515562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594724515562" />
+    <state width="1493" height="341" key="GridCell.Tab.0.bottom" timestamp="1594716473909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594716473909" />
+    <state width="1493" height="341" key="GridCell.Tab.0.center" timestamp="1594716473909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594716473909" />
+    <state width="1493" height="341" key="GridCell.Tab.0.left" timestamp="1594716473909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594716473909" />
+    <state width="1493" height="341" key="GridCell.Tab.0.right" timestamp="1594716473909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594716473909" />
+    <state width="1493" height="341" key="GridCell.Tab.1.bottom" timestamp="1594716473909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594716473909" />
+    <state width="1493" height="341" key="GridCell.Tab.1.center" timestamp="1594716473909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594716473909" />
+    <state width="1493" height="341" key="GridCell.Tab.1.left" timestamp="1594716473909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594716473909" />
+    <state width="1493" height="341" key="GridCell.Tab.1.right" timestamp="1594716473909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594716473909" />
+    <state width="1493" height="341" key="GridCell.Tab.2.bottom" timestamp="1594716473909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594716473909" />
+    <state width="1493" height="341" key="GridCell.Tab.2.center" timestamp="1594716473909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1594716473909" />
+    <state width="1493" height="341" key="GridCell.Tab.2.left" timestamp="1594716473909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1594716473909" />
+    <state width="1493" height="341" key="GridCell.Tab.2.right" timestamp="1594716473909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1594716473909" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1594725809042">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594725809042" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1594724731207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594724731207" />
+    <state x="457" y="172" width="621" height="480" key="find.popup" timestamp="1594538043338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="172" width="621" height="480" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1594538043338" />
+    <state x="178" y="0" key="new project wizard" timestamp="1594723070981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1594723070981" />
+    <state x="511" y="45" key="refactoring.ChangeSignatureDialog" timestamp="1594611706539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="45" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1594611706539" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1594537518019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1594537518019" />
+  </component>
+</project>

@@ -1,0 +1,101 @@
+<!DOCTYPE web-app PUBLIC
+        "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+        "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+    <display-name>displayUsers</display-name>
+
+    <!--注册过滤器-->
+    <filter>
+        <filter-name>charsetEncodingFilter</filter-name>
+        <filter-class>com.bosssoft.hr.train.web.filter.EncodingFilter</filter-class>
+        <init-param>
+            <param-name>encode</param-name>
+            <param-value>UTF-8</param-value>
+        </init-param>
+    </filter>
+
+    <filter-mapping>
+        <filter-name>charsetEncodingFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+
+    <!--注册listener-->
+    <listener>
+        <listener-class>com.bosssoft.hr.train.web.listener.CountListener</listener-class>
+    </listener>
+
+    <!--为了解决[Abandoned connection cleanup thread] but has failed to stop it.-->
+    <listener>
+        <listener-class>com.bosssoft.hr.train.web.listener.AllDriversListener</listener-class>
+    </listener>
+
+    <!--注册Servlet-->
+    <servlet>
+        <servlet-name>LoginController</servlet-name>
+        <servlet-class>com.bosssoft.hr.train.web.controller.LoginController</servlet-class>
+    </servlet>
+    <!--查询方法-->
+    <servlet>
+        <servlet-name>QueryUserController</servlet-name>
+        <servlet-class>com.bosssoft.hr.train.web.controller.QueryUserController</servlet-class>
+    </servlet>
+    <!--删除-->
+    <servlet>
+        <servlet-name>RemoveUserController</servlet-name>
+        <servlet-class>com.bosssoft.hr.train.web.controller.RemoveUserController</servlet-class>
+    </servlet>
+    <!--新增-->
+    <servlet>
+        <servlet-name>AddUserController</servlet-name>
+        <servlet-class>com.bosssoft.hr.train.web.controller.AddUserController</servlet-class>
+    </servlet>
+    <!--修改-->
+    <servlet>
+        <servlet-name>UpdateUserController</servlet-name>
+        <servlet-class>com.bosssoft.hr.train.web.controller.UpdateUserController</servlet-class>
+    </servlet>
+
+
+    <servlet-mapping>
+        <servlet-name>LoginController</servlet-name>
+        <url-pattern>/login</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>QueryUserController</servlet-name>
+        <url-pattern>/findUsers</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>RemoveUserController</servlet-name>
+        <url-pattern>/deleteUser</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>AddUserController</servlet-name>
+        <url-pattern>/addUser</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>UpdateUserController</servlet-name>
+        <url-pattern>/modifyUser</url-pattern>
+    </servlet-mapping>
+
+
+    <welcome-file-list>
+        <welcome-file>login.jsp</welcome-file>
+        <welcome-file>login.html</welcome-file>
+    </welcome-file-list>
+
+    <!--这里配置异常-->
+    <error-page>
+        <error-code>404</error-code>
+        <location>/error.jsp</location>
+    </error-page>
+
+    <error-page>
+        <exception-type>java.lang.Throwable</exception-type>
+        <location>/error.jsp</location>
+    </error-page>
+    <error-page>
+        <exception-type>javax.servlet.ServletException</exception-type>
+        <location>/error.jsp</location>
+    </error-page>
+</web-app>

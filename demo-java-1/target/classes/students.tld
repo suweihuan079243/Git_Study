@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students> 
+  <Student id="001"> 
+    <name>张三</name>  
+    <age>19</age>  
+    <gender>男</gender>  
+    <grade>计算机1班</grade> 
+  </Student>  
+  <Student id="002"> 
+    <name>李四</name>  
+    <age>20</age>  
+    <gender>男</gender>  
+    <grade>计算机2班</grade> 
+  </Student>  
+  <Student id="003"> 
+    <name>wangwu2</name>  
+    <age>20</age>  
+    <gender>男</gender>  
+    <grade>计算机四班</grade> 
+  </Student>  
+  <Student id="004"> 
+    <name>wangwu</name>  
+    <age>20</age>  
+    <gender>男</gender>  
+    <grade>计算机四班</grade> 
+  </Student>  
+  <Student id="003">
+    <name>wangwu</name>
+    <age>20</age>
+    <gender>男</gender>
+    <grade>计算机四班</grade>
+  </Student>
+</Students>

@@ -1,0 +1,16 @@
+
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8šçş‰´.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(İÛ»šıÿÿÿÿ8©À”´.
+W
+java:S1128
+"5Remove this unused import 'java.nio.charset.Charset'.(ü¶ØŸıÿÿÿÿ8šçş‰´.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ä¬àÏ8¿š¹”´.
+W
+java:S1141I"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8šçş‰´.
+s
+java:S2095"QUse try-with-resources or close this "ServerSocketChannel" in a "finally" clause.(ãöŒÎüÿÿÿÿ8§ş´”´.
+œ
+java:S1192="zDefine a constant instead of duplicating this literal "=========================================================" 4 times.(ú¡°°ÿÿÿÿÿ8¢¦Š´.

@@ -1,0 +1,9 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(À‹İşÿÿÿÿ8³Í”´.
+W
+java:S1128	"5Remove this unused import 'java.nio.charset.Charset'.(ü¶ØŸıÿÿÿÿ8á®ı‰´.
+W
+java:S1141H"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8á®ı‰´.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(Ä¬àÏ8ôÜ°”´.
